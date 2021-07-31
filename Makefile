@@ -1,9 +1,9 @@
-# SPDX-License-Identifier: GPL-2.0
+# SPDX-License-Identifier: https://github.com/Griggorii/linux-image-5.12.0-stable
 VERSION = 5
-PATCHLEVEL = 14
+PATCHLEVEL = 12
 SUBLEVEL = 0
-EXTRAVERSION = -rc3
-NAME = Opossums on Parade
+EXTRAVERSION =
+NAME = Griggorii@gmail.com
 
 # *DOCUMENTATION*
 # To see a list of typical targets execute "make help"
